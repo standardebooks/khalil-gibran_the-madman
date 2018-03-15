@@ -28,14 +28,14 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">The Madman</dc:title> 
-		<meta property="file-as" refines="#title">Madman, The</meta> 
-		<meta property="title-type" refines="#title">main</meta> 
-		<dc:title id="subtitle">His Parables and Poems</dc:title> 
-		<meta property="file-as" refines="#subtitle">His Parables and Poems</meta> 
-		<meta property="title-type" refines="#subtitle">subtitle</meta> 
-		<dc:title id="fulltitle">The Madman: His Parables and Poems</dc:title> 
-		<meta property="file-as" refines="#fulltitle">Madman, The</meta> 
+		<dc:title id="title">The Madman</dc:title>
+		<meta property="file-as" refines="#title">Madman, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">His Parables and Poems</dc:title>
+		<meta property="file-as" refines="#subtitle">His Parables and Poems</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Madman: His Parables and Poems</dc:title>
+		<meta property="file-as" refines="#fulltitle">Madman, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Parables</dc:subject>
 		<dc:subject id="subject-2">Mysticism -- Poetry</dc:subject>
@@ -45,8 +45,8 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">The second collection of poetry and short stories by Lebanese author Khalil Gibran.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> 
-			<![CDATA[Published in 1918, <i>The Madman: His Parables and Poems</i> is the second collecton of philosophical poetry and short stories by Lebanese author Khalil Gibran. <i>The Madman</i> is the first work by Gibran that was first published in English, while his earlier works were written originally in his native Arabic. <i>The Madman</i> deals with themes of love, loss, spirituality, and the nature of truth.]]>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Published in 1918, &lt;i&gt;The Madman: His Parables and Poems&lt;/i&gt; is the second collecton of philosophical poetry and short stories by Lebanese author Khalil Gibran. &lt;i&gt;The Madman&lt;/i&gt; is the first work by Gibran that was first published in English, while his earlier works were written originally in his native Arabic. &lt;i&gt;The Madman&lt;/i&gt; deals with themes of love, loss, spirituality, and the nature of truth.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -125,7 +125,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-</manifest>
+	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
