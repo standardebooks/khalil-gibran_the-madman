@@ -46,7 +46,7 @@
 		<dc:description id="description">The second collection of poetry and short stories by Lebanese author Khalil Gibran.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1918, &lt;i&gt;The Madman: His Parables and Poems&lt;/i&gt; is the second collecton of philosophical poetry and short stories by Lebanese author Khalil Gibran. &lt;i&gt;The Madman&lt;/i&gt; is the first work by Gibran that was first published in English, while his earlier works were written originally in his native Arabic. &lt;i&gt;The Madman&lt;/i&gt; deals with themes of love, loss, spirituality, and the nature of truth.&lt;/p&gt;
+			&lt;p&gt;Published in 1918, &lt;i&gt;The Madman: His Parables and Poems&lt;/i&gt; is the second collecton of philosophical poetry and short stories by Lebanese author Khalil Gibran. &lt;i&gt;The Madman&lt;/i&gt; is the first work by Gibran that was originally published in English, as compared to his earlier works which were written originally in his native Arabic. &lt;i&gt;The Madman&lt;/i&gt; deals with themes of love, loss, spirituality, and the nature of truth.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -62,7 +62,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79095627</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">James Tissot</dc:contributor>
-		<meta property="file-as" refines="#artist">Jacques Joseph Tissot</meta>
+		<meta property="file-as" refines="#artist">Tissot, James</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jacques Joseph Tissot</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/James_Tissot</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82073912</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
