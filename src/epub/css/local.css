@@ -5,3 +5,7 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-size: .75em;
 	font-weight: normal;
 }
+
+#faces p + p{
+	margin-top: 1em;
+}
