@@ -23,3 +23,7 @@
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
+
+[epub|type~="prologue"]{
+	margin-top: 8em;
+}
