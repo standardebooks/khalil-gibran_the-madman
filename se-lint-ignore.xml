@@ -5,5 +5,9 @@
 			<code>t-036</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
+		<ignore>
+			<code>t-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
