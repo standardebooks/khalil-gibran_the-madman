@@ -45,7 +45,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">The second collection of poetry and short stories by Lebanese author Khalil Gibran.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1918, &lt;i&gt;The Madman: His Parables and Poems&lt;/i&gt; is the first collection of philosophical poetry and short stories by Lebanese author Khalil Gibran. &lt;i&gt;The Madman&lt;/i&gt; is the first work by Gibran that was originally published in English, as compared to his earlier works which were written originally in his native Arabic. &lt;i&gt;The Madman&lt;/i&gt; deals with themes of love, loss, spirituality, and the nature of truth.&lt;/p&gt;
+			&lt;p&gt;Published in 1918, &lt;i&gt;The Madman: His Parables and Poems&lt;/i&gt; is the first collection of philosophical poetry and short stories by Lebanese author &lt;a href="https://standardebooks.org/ebooks/khalil-gibran"&gt;Khalil Gibran&lt;/a&gt;. &lt;i&gt;The Madman&lt;/i&gt; is the first work by Gibran that was originally published in English, as compared to his earlier works which were written originally in his native Arabic. &lt;i&gt;The Madman&lt;/i&gt; deals with themes of love, loss, spirituality, and the nature of truth.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5616</dc:source>
