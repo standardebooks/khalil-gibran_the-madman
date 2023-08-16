@@ -6,7 +6,7 @@
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-019</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
